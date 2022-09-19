@@ -8,3 +8,6 @@
 ## 😹🤣
 
 ![X](X.png "X")
+
+- [ ] todo list
+- [X] done
