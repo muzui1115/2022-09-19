@@ -11,3 +11,7 @@
 
 - [ ] todo list
 - [X] done
+
+```python
+s = "Python syntax high11ghting"
+print(s)
