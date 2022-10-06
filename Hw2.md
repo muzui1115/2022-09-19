@@ -12,8 +12,7 @@
 | 10     | 使用者訓練 | 20     | 7、8     | 
 | 11     | 使用者測試 | 25     | 9、10    |
 
-<br>
-<br>
+### 1.PERT/CPM 圖
 
 ```mermaid
 classDiagram
@@ -76,8 +75,8 @@ classDiagram
 使用者測試 : 需時：25d
 
 ```
-<br>
-<br>
+
+### 2.甘特圖
 
 ```mermaid
 gantt
@@ -97,6 +96,8 @@ gantt
     使用者測試 :a11, after a9, 25d
     
 ```
+
+### 3.關鍵路徑
 
 ```mermaid
 classDiagram
