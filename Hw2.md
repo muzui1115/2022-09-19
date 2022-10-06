@@ -80,7 +80,7 @@ classDiagram
 
 ```mermaid
 gantt
-    title 
+    title 甘特圖
 
     section 任務
     研擬計畫 :a1, 2022-10-03, 1d
